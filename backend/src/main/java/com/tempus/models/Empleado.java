@@ -4,7 +4,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-
+// Clase Entidad para la gestión de Empleados - Proyecto Examen Tempus
 @Entity
 public class Empleado {
     @Id
